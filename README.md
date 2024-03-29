@@ -9,8 +9,8 @@
 
 <div align="center">
   <a href="https://github.com/codescriipt">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=HyperScripts&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyperScripts&theme=radical&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Mateus&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus&theme=radical&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
